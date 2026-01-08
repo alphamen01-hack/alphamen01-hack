@@ -81,7 +81,7 @@ with strong *ethical discipline and legal boundaries*.
 
 ---
 
-## 🧪 TECH STACK (NEON)
+## 🧪 TECH STACK 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,git,github,html,css,js,sqlite&perline=10" />
@@ -145,7 +145,7 @@ with strong *ethical discipline and legal boundaries*.
 
 ---
 
-## 🧠 ADVANCED HACKER SKILLS (IN PROGRESS)
+## 🧠 ADVANCED HACKER SKILLS 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Exploit%20Development-39FF14?style=for-the-badge"/>
