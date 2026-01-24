@@ -1,18 +1,13 @@
 ---
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/303623/krishna.svg" width="70"/>
-</p>
-
-<p align="center">
-<b>🕉️ Maha Vishnu Vasudevanukku Adiyen</b>
+  <img src="https://img.shields.io/badge/🕉️_Vasudevanukku-Adiyen-0A1AFF?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
 <i>
-Not a bio.<br>
-Not a display.<br>
-Idhu Adiyen oda Saranagathi.
+Not a bio · Not a display<br>
+<b>Idhu Adiyen oda Saranagathi</b>
 </i>
 </p>
 
