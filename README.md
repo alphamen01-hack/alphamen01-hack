@@ -1,14 +1,17 @@
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🕉️_Vasudevanukku-Adiyen-0A1AFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🦚-KRISHNA-0A1AFF?style=flat-square" />
 </p>
 
 <p align="center">
-<i>
-Not a bio · Not a display<br>
-<b>Idhu Adiyen oda Saranagathi</b>
-</i>
+  <b>🕉️ Maha Vishnu Vasudevanukku Adiyen</b>
+</p>
+
+<p align="center">
+  <i>Om Namo Bhagavate Vasudevaya Namaha</i>
+</p>
+
+<p align="center">
+  ─────────────────────────────
 </p>
 
 
