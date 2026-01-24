@@ -1,3 +1,61 @@
+<!-- KRISHNA DIVINE SECTION START -->
+
+<p align="center">
+  <!-- Animated Krishna SVG (transparent) -->
+  <img 
+    src="https://www.svgrepo.com/show/303623/krishna.svg" 
+    width="90"
+    style="animation: float 3s ease-in-out infinite;"
+  />
+</p>
+
+<h2 align="center">
+🕉️ Maha Vishnu Vasudevanukku Adiyen
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Georgia&
+  size=18&
+  pause=1000&
+  color=1E90FF&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Saranagathi+%E2%80%A2+Dharmam+%E2%80%A2+Anbu;
+  Vasudevan+En+Kaappu;
+  Krishna+En+Uyir" />
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<i>
+Not a bio.<br>
+Not a display.<br>
+<b>Idhu Adiyen oda Saranagathi.</b>
+</i>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<!-- Floating animation -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
+<!-- KRISHNA DIVINE SECTION END -->
+
+
+
 <!-- ===== NEON HERO ANIMATION ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=39FF14&center=true&vCenter=true&width=950&lines=Santhosh+Kutty;Cyber+Security+Researcher+%26+Ethical+Hacker;Digital+Forensics+%7C+Offensive+Security;Dark+Web+Intelligence+Analyst;Think+Green+Hack+Clean+Defend+Smart" />
