@@ -47,11 +47,11 @@ with strong *ethical discipline and legal boundaries*.
     <img src="https://img.shields.io/badge/GitHub-Primary-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/dark_cyber.in">
+  <a href="https://instagram.com/dark_.in">
     <img src="https://img.shields.io/badge/Instagram-Professional-00E5FF?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/17012645961">
+  <a href="https://wa.me/17012661">
     <img src="https://img.shields.io/badge/WhatsApp-Direct-39FF14?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
 </p>
