@@ -80,7 +80,8 @@ with strong *ethical discipline and legal boundaries*.
   
 ---
 
----
+
+<p align="center">Our Designing Concepts Based On :
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -145,7 +146,7 @@ with strong *ethical discipline and legal boundaries*.
   </kbd>
 </p>
 </p>
----
+
 
 ---
 
