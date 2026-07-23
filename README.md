@@ -48,7 +48,7 @@ with strong *ethical discipline and legal boundaries*.
   </a>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/918807494586">
+  <a href="https://wa.me/17012645961">
     <img src="https://img.shields.io/badge/WhatsApp-Direct-39FF14?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
 </p>
