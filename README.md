@@ -43,8 +43,9 @@ with strong *ethical discipline and legal boundaries*.
     <img src="https://img.shields.io/badge/GitHub-Primary-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/dark_cyber.in">
-    <img src="https://img.shields.io/badge/Instagram-Professional-00E5FF?style=for-the-badge&logo=instagram&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/santhosh-kutty-28253a3ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/918807494586">
