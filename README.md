@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <b>🕉️ Maha Vishnu Vasudevanukku Adiyen</b>
-</p>
-
-<p align="center">
   <i>Om Namo Bhagavate Vasudevaya Namaha</i>
 </p>
 
@@ -25,7 +21,7 @@
 
 ## 🧠 WHO I AM
 
-I am a *Cyber Security Researcher and Ethical Hacker* focused on  
+I am a *Cyber Security Students & Researcher and Ethical Hacker* focused on  
 *offensive security, digital forensics, cyber crime analysis, and threat intelligence*.
 
 I don’t just use tools —  
@@ -51,7 +47,7 @@ with strong *ethical discipline and legal boundaries*.
     <img src="https://img.shields.io/badge/Instagram-Professional-00E5FF?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/17012645961">
+  <a href="https://wa.me/918807494586">
     <img src="https://img.shields.io/badge/WhatsApp-Direct-39FF14?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
 </p>
